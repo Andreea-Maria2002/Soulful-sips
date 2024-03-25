@@ -1,0 +1,23 @@
+#contacts-container{
+  color:#7C4B2A;
+}
+
+#contactus{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  margin: 20px 10px;
+  
+}
+
+#links a{
+  font-size: 20px;
+  text-decoration: none;
+  color: #7C4B2A;
+}
+
+#links a:hover{
+  color: #e1dede;
+  transition: 0.25s;
+}
+ 

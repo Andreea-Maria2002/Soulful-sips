@@ -1,0 +1,75 @@
+
+.cart {
+  color: #7C4B2A;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cartItem {
+  width: 700px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  box-shadow: 15px 20px 20px grey;
+  background-color: #ffff;
+  border-radius: 25px;
+  margin: 30px;
+}
+
+.cartItem img {
+  width: 200px;
+}
+
+.cartItem .description {
+  width: 100%;
+  font-size: 30px;
+}
+
+.countHandler input {
+  width: 50px;
+  text-align: center;
+  font-weight: bolder;
+  
+}
+
+.payment button {
+  width: 150px;
+  height: 50px;
+  background-color: white;
+  color: #7C4B2A;
+  font-weight: bolder;
+  border: none;
+  border-radius: 50px;
+  box-shadow: 15px 13px 13px grey;
+  margin: 10px 20px 0px 30px;
+  cursor: pointer;
+}
+
+.payment button:hover {
+  background-color: #7C4B2A;
+  color: white;
+  transition: 0.25s;
+  width: 160px;
+  height: 60px;
+}
+
+.payment button:active {
+  background-color: #e1dede;
+}
+
+.payments{
+  margin: 100px -80px -56px 0px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+#linkBtn button{
+  margin: 20px 10px 10px -30px;
+}
+
+#msg{
+  font-weight: lighter;
+}

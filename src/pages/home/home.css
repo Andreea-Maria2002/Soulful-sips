@@ -1,0 +1,44 @@
+#container{
+  color: #7C4B2A;
+  margin: 50px 20px 0px 30px;
+}
+
+#p1{
+  font-weight: bolder;
+  display: flex;
+  color: black;
+  margin: -70px 1000px 30px 50px;
+  box-shadow: 15px 13px 13px grey;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#p2{
+  font-weight: bolder;
+  display: flex;
+  color: black;
+  margin: 30px 1600px 0px 50px;
+  box-shadow: -20px 20px 13px grey;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#p3{
+  font-weight: bolder;
+  display: flex;
+  color: black;
+  margin: 40px -20px -10px -10px;
+  box-shadow: -30px 10px 13px grey;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#beans{
+  border-radius: 20px;
+  margin: -245px 375px 110px;
+}
+
+#cirese{
+  border-radius: 10px;
+  margin: 10px 0px 0px 1400px;
+}
